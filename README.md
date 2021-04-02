@@ -4,8 +4,14 @@
 
 # Prerequisites:
 Python
+#
 Jupyter Notebook
+#
 Tensorflow(from where we can import keras)
+#
 Numpy
+#
 python openCV library
+#
+
 FER-2013 Dataset(from above link)
